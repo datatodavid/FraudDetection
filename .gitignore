@@ -4,6 +4,9 @@
 *.xlsx
 *.xls
 
+# Temp Files, probably not important
+*.tmp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
