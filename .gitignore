@@ -6,6 +6,7 @@
 
 # Temp Files, probably not important
 *.tmp
+catboost_info/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
